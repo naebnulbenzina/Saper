@@ -1,1 +1,1 @@
-# Saper — копия
+# Saper
